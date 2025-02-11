@@ -1,0 +1,5 @@
+opencv-python-headless   :  if you need extra functionalities (e.g., image & video codecs):
+face-recognition
+#opencv-python opencv-contrib-python
+scikit-learn
+pywin32
